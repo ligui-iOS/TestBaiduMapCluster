@@ -1,10 +1,10 @@
 **1.整体结构**
-类名 | 描述
----|---
-BMKClusterAlgorithm | 点聚合算法类
-BMKClusterItem | 标注
-BMKClusterManager | 点聚合管理
-BMKClusterQuadtree | 经纬度坐标转换为地图点坐标以及判定点是否在区域内
+|类名 | 描述|
+|---|---|
+|BMKClusterAlgorithm | 点聚合算法类|
+|BMKClusterItem | 标注|
+|BMKClusterManager | 点聚合管理|
+|BMKClusterQuadtree | 经纬度坐标转换为地图点坐标以及判定点是否在区域内|
 ***
 #### 主流程图
 ```
